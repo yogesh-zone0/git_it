@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello
-=======
-helooooo
->>>>>>> game
+helooooogame
+helomovie
